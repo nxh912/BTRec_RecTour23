@@ -1,4 +1,4 @@
-# BTRec - On Making Personalized Tour Recommendation Problem
+# BTRec: BERT-based Trajectory Recommendation for Personalized Tours
 
  Ngai Lam Ho, Roy Ka-Wei Lee and Kwan Hui Lim 
 
