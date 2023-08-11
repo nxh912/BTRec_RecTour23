@@ -1,5 +1,6 @@
 # BTRec: BERT-based Trajectory Recommendation for Personalized Tours
 
+Personalized Tours
  Ngai Lam Ho, Roy Ka-Wei Lee and Kwan Hui Lim 
 
  Information Systems Technology and Design (ISTD) 
