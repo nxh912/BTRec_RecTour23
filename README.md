@@ -17,7 +17,7 @@ solutions they provide may not always align with individual user of the system. 
 personalized itineraries on Pois using the Bert framework. Firstly, we propose PPoiBert as a basic
 framework for recommending personalized itineraries, depending on different user inputs; secondly,
 our BtRec algorithm additionally incorporates users’ demographic information into the Bert language
-model to recommend a personalized Poi itinerary prediction given {𝑝𝑢, 𝑝𝑣}. Our recommendation system
+model to recommend a personalized Poi itinerary prediction given {𝑝<sub>u</sub>, 𝑝<sub>v</sub>}. Our recommendation system
 can create a travel itinerary that maximizes Pois visited, while also taking into account user preferences for
 categories of Pois and time availability. This is achieved by analyzing the travel histories of similar users.
 Our recommendation algorithms are motivated by the sentence completion problem in natural language
