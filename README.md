@@ -1,11 +1,12 @@
-# BTRec: BERT-based Trajectory Recommendation for Personalized Tours
+# BTRec: BERT-based Trajectory Recommendation for Personalized Tours Personalized Tours
 
-Personalized Tours
- Ngai Lam Ho, Roy Ka-Wei Lee and Kwan Hui Lim 
+## RecTour 2023 : workshop on recommenders in tourism
 
- Information Systems Technology and Design (ISTD) 
+### Ngai Lam Ho, Roy Ka-Wei Lee and Kwan Hui Lim 
 
- Singapore University of Technology and Design, 8 Somapah Rd Singapore 487 
+### Information Systems Technology and Design (ISTD) 
+
+### Singapore University of Technology and Design, 8 Somapah Rd Singapore 487 
 
 ### Abstract
 
