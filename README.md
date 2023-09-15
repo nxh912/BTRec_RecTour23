@@ -33,3 +33,6 @@ prediction algorithms, measured by recall, precision, and ℱ1-scores.
 [Data & source code](https://github.com/nxh912/BTRec_RecSys23/ "https://github.com/nxh912/BTRec_RecSys23/")
 
 (source code will be updated after acceptance for the conference.)
+
+![Alt text](Google Tag)
+<img src="./googletag.svg">
