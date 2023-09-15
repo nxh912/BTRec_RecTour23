@@ -19,7 +19,7 @@
   <!-- <circle cx="65" cy="65" r="3" /> -->>
   <!-- Simple rectangle -->
   <!-- Rounded corner rectangle -->
-  <rect x="60" width="60" height="15" rx="15" />
+  <rect x="60" width="60" height="65" rx="15" />
  
 </svg>
   
