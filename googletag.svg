@@ -1,0 +1,17 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ED47HEYQ3M"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ED47HEYQ3M');
+    </script>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>google tag</li>
+        </ul>
+    </div>
+</foreignObject>
+</svg>
