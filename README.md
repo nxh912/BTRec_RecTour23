@@ -34,5 +34,5 @@ prediction algorithms, measured by recall, precision, and ℱ1-scores.
 
 (source code will be updated after acceptance for the conference.)
 
-![Alt text](Google Tag)
+![](Google Tag)
 <img src="./googletag.svg">
