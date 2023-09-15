@@ -16,5 +16,10 @@
     </script>
     <script src="https://www.googletagmanager.com/gtag/js?id=G-ED47HEYQ3M"></script>
   </foreignObject>
-  <circle cx="65" cy="65" r="3" />
+  <!-- <circle cx="65" cy="65" r="3" /> -->>
+  <!-- Simple rectangle -->
+  <!-- Rounded corner rectangle -->
+  <rect x="60" width="60" height="5" rx="5" />
+ 
 </svg>
+  
